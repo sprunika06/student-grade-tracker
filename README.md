@@ -78,13 +78,13 @@ The application calculates grades based on the student's average marks.
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/CodeAlpha_StudentGradeTracker.git
+git clone https://github.com/sprunika06/student-grade-tracker.git
 ```
 
 ### Step 2: Navigate to the Project Directory
 
 ```bash
-cd CodeAlpha_StudentGradeTracker
+cd student-grade-tracker
 ```
 
 ### Step 3: Compile the Java Files
@@ -179,5 +179,3 @@ This project demonstrates practical implementation of the following Java concept
 Developed as part of the CodeAlpha Java Programming Internship.
 
 ---
-
-**Note:** This application currently uses ArrayList for storing student records during runtime. Student data is not permanently saved after the application closes.
